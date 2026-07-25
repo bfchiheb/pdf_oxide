@@ -83,6 +83,7 @@ pub mod render;
 // ---- Cross-cutting ----
 pub mod annotations;
 pub mod compliance;
+pub mod conversion;
 pub mod dom;
 
 // ---- JNI lifecycle ----
